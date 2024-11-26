@@ -1,0 +1,50 @@
+Species,Genus,Period
+
+Albertosaurus sarcophagus,Albertosaurus,Cretaceous
+Allosaurus fragilis,Allosaurus,Jurassic
+Ankylosaurus magniventris,Ankylosaurus,Cretaceous
+Apatosaurus ajax,Apatosaurus,Jurassic
+Baryonyx walkeri,Baryonyx,Early Cretaceous
+Brachiosaurus altithorax,Brachiosaurus,Jurassic
+Carcharodontosaurus saharicus,Carcharodontosaurus,Cretaceous
+Ceratosaurus nasicornis,Ceratosaurus,Jurassic
+Chasmosaurus belli,Chasmosaurus,Cretaceous
+Choyrodon,Choyrodon,Cretaceous
+Coelophysis bauri,Coelophysis,Triassic
+Corythosaurus casuarius,Corythosaurus,Cretaceous
+Diplodocus longus,Diplodocus,Jurassic
+Dromaeosaurus albertensis,Dromaeosaurus,Cretaceous
+Einiosaurus procurvicornis,Einiosaurus,Cretaceous
+Eodromaeus,Eodromaeus,Triassic
+Eoraptor lunensis,Eoraptor,Triassic
+Eustreptospondylus,Eustreptospondylus,Jurassic
+Fukuiraptor, Fukuiraptor,Cretaceous
+Gallimimus bullatus,Gallimimus,Cretaceous
+Giganotosaurus carolinii,Giganotosaurus,Cretaceous
+Giraffatitan brancai,Giraffatitan,Jurassic
+Gorgosaurus libratus,Gorgosaurus,Cretaceous
+Hypsilophodon foxii,Hypsilophodon,Early Cretaceous
+Iguanodon bernissartensis,Iguanodon,Cretaceous
+Maiasaura peeblesorum,Maiasaura,Cretaceous
+Matherosaurus, Matherosaurus, Triassic
+Megalosaurus bucklandii,Megalosaurus,Jurassic
+Mosasaurus hoffmanni,Mosasaurus,Cretaceous
+Oviraptor philoceratops,Oviraptor,Cretaceous
+Pachycephalosaurus wyomingensis,Pachycephalosaurus,Cretaceous
+Parasaurolophus walkeri,Parasaurolophus,Cretaceous
+Plateosaurus engelhardti,Plateosaurus,Triassic
+Plesiosaurus dolichodeirus,Plesiosaurus,Jurassic
+Protoceratops andrewsi,Protoceratops,Cretaceous
+Rexasaurus rex,Rexasaurus,Cretaceous
+Rhabdodon priscus,Rhabdodon,Cretaceous
+Saurolophus osborni,Saurolophus,Cretaceous
+Shantungosaurus, Shantungosaurus,Cretaceous
+Shunosaurus, Shunosaurus, Jurassic
+Spinosaurus aegypticus,Spinosaurus,Cretaceous
+Stegosaurus armatus,Stegosaurus,Jurassic
+Talenodon,Talenodon,Cretaceous
+Tarchia tarchia,Tarchia,Cretaceous
+Triceratops horridus,Triceratops,Cretaceous
+Troodon formosus,Troodon,Cretaceous
+Tyrannosaurus rex,Tyrannosaurus,Cretaceous
+Velociraptor mongoliensis,Velociraptor,Cretaceous
